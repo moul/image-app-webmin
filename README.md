@@ -8,8 +8,7 @@ Scripts to build the official Webmin image on Scaleway
 
 This image is built using [Image Tools](https://github.com/scaleway/image-tools) and depends on the official [Ubuntu](https://github.com/scaleway/image-ubuntu) image.
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/8/88/Ovpntech_logo-s_REVISED.png" width="350px" />
-
+![](https://upload.wikimedia.org/wikipedia/fr/4/49/195819_115912965151333_7549005_n.jpg)
 
 ---
 
